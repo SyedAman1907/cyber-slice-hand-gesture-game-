@@ -1,0 +1,276 @@
+{
+  "summary": {
+    "total_games_played": 42,
+    "highest_score": 465,
+    "total_fruits_sliced": 108,
+    "total_bombs_hit": 20,
+    "total_play_time_seconds": 226.4,
+    "average_score": 41.3,
+    "_total_score_sum": 1735
+  },
+  "recent_games": [
+    {
+      "id": 42,
+      "timestamp": "2026-10-23 21:10:03",
+      "score": 15,
+      "fruits_sliced": 1,
+      "bombs_hit": 0,
+      "duration": 8.0,
+      "difficulty": "Medium",
+      "is_high_score": false
+    },
+    {
+      "id": 41,
+      "timestamp": "2026-10-23 21:09:51",
+      "score": 15,
+      "fruits_sliced": 1,
+      "bombs_hit": 1,
+      "duration": 8.1,
+      "difficulty": "Medium",
+      "is_high_score": false
+    },
+    {
+      "id": 40,
+      "timestamp": "2026-10-23 21:09:39",
+      "score": 25,
+      "fruits_sliced": 2,
+      "bombs_hit": 0,
+      "duration": 10.1,
+      "difficulty": "Medium",
+      "is_high_score": false
+    },
+    {
+      "id": 39,
+      "timestamp": "2026-10-23 21:05:51",
+      "score": 25,
+      "fruits_sliced": 2,
+      "bombs_hit": 0,
+      "duration": 10.2,
+      "difficulty": "Medium",
+      "is_high_score": false
+    },
+    {
+      "id": 38,
+      "timestamp": "2026-10-23 21:05:02",
+      "score": 0,
+      "fruits_sliced": 0,
+      "bombs_hit": 0,
+      "duration": 8.1,
+      "difficulty": "Medium",
+      "is_high_score": false
+    },
+    {
+      "id": 37,
+      "timestamp": "2026-10-23 21:03:26",
+      "score": 0,
+      "fruits_sliced": 0,
+      "bombs_hit": 0,
+      "duration": 7.1,
+      "difficulty": "Medium",
+      "is_high_score": false
+    },
+    {
+      "id": 36,
+      "timestamp": "2026-10-23 21:02:24",
+      "score": 0,
+      "fruits_sliced": 0,
+      "bombs_hit": 0,
+      "duration": 6.9,
+      "difficulty": "Medium",
+      "is_high_score": false
+    },
+    {
+      "id": 35,
+      "timestamp": "2026-10-23 21:01:46",
+      "score": 10,
+      "fruits_sliced": 1,
+      "bombs_hit": 0,
+      "duration": 8.0,
+      "difficulty": "Medium",
+      "is_high_score": false
+    },
+    {
+      "id": 34,
+      "timestamp": "2026-10-23 21:01:35",
+      "score": 45,
+      "fruits_sliced": 3,
+      "bombs_hit": 0,
+      "duration": 9.1,
+      "difficulty": "Medium",
+      "is_high_score": false
+    },
+    {
+      "id": 33,
+      "timestamp": "2026-10-23 21:01:12",
+      "score": 0,
+      "fruits_sliced": 0,
+      "bombs_hit": 0,
+      "duration": 5.9,
+      "difficulty": "Medium",
+      "is_high_score": false
+    },
+    {
+      "id": 32,
+      "timestamp": "2026-10-23 21:00:49",
+      "score": 10,
+      "fruits_sliced": 1,
+      "bombs_hit": 1,
+      "duration": 8.2,
+      "difficulty": "Medium",
+      "is_high_score": false
+    },
+    {
+      "id": 31,
+      "timestamp": "2026-10-23 20:57:58",
+      "score": 0,
+      "fruits_sliced": 0,
+      "bombs_hit": 0,
+      "duration": 6.9,
+      "difficulty": "Medium",
+      "is_high_score": false
+    },
+    {
+      "id": 30,
+      "timestamp": "2026-10-23 20:55:44",
+      "score": 0,
+      "fruits_sliced": 0,
+      "bombs_hit": 0,
+      "duration": 0.0,
+      "difficulty": "Easy",
+      "is_high_score": false
+    },
+    {
+      "id": 29,
+      "timestamp": "2026-10-23 20:55:44",
+      "score": 25,
+      "fruits_sliced": 2,
+      "bombs_hit": 0,
+      "duration": 0.0,
+      "difficulty": "Easy",
+      "is_high_score": false
+    },
+    {
+      "id": 28,
+      "timestamp": "2026-10-23 20:55:40",
+      "score": 10,
+      "fruits_sliced": 1,
+      "bombs_hit": 0,
+      "duration": 0.1,
+      "difficulty": "Easy",
+      "is_high_score": false
+    },
+    {
+      "id": 27,
+      "timestamp": "2026-10-23 20:55:40",
+      "score": 10,
+      "fruits_sliced": 1,
+      "bombs_hit": 0,
+      "duration": 0.1,
+      "difficulty": "Easy",
+      "is_high_score": false
+    },
+    {
+      "id": 26,
+      "timestamp": "2026-10-23 20:55:40",
+      "score": 10,
+      "fruits_sliced": 1,
+      "bombs_hit": 0,
+      "duration": 0.1,
+      "difficulty": "Easy",
+      "is_high_score": false
+    },
+    {
+      "id": 25,
+      "timestamp": "2026-10-23 20:55:40",
+      "score": 10,
+      "fruits_sliced": 1,
+      "bombs_hit": 0,
+      "duration": 0.1,
+      "difficulty": "Easy",
+      "is_high_score": false
+    },
+    {
+      "id": 24,
+      "timestamp": "2026-10-23 20:55:40",
+      "score": 10,
+      "fruits_sliced": 1,
+      "bombs_hit": 0,
+      "duration": 0.1,
+      "difficulty": "Easy",
+      "is_high_score": false
+    },
+    {
+      "id": 23,
+      "timestamp": "2026-10-16 11:48:11",
+      "score": 0,
+      "fruits_sliced": 0,
+      "bombs_hit": 0,
+      "duration": 0.0,
+      "difficulty": "Hard",
+      "is_high_score": false
+    },
+    {
+      "id": 22,
+      "timestamp": "2026-10-16 11:48:11",
+      "score": 25,
+      "fruits_sliced": 2,
+      "bombs_hit": 0,
+      "duration": 0.0,
+      "difficulty": "Hard",
+      "is_high_score": false
+    },
+    {
+      "id": 21,
+      "timestamp": "2026-10-16 11:48:09",
+      "score": 10,
+      "fruits_sliced": 1,
+      "bombs_hit": 0,
+      "duration": 0.1,
+      "difficulty": "Hard",
+      "is_high_score": false
+    },
+    {
+      "id": 20,
+      "timestamp": "2026-10-16 11:48:09",
+      "score": 10,
+      "fruits_sliced": 1,
+      "bombs_hit": 0,
+      "duration": 0.1,
+      "difficulty": "Hard",
+      "is_high_score": false
+    },
+    {
+      "id": 19,
+      "timestamp": "2026-10-16 11:48:09",
+      "score": 10,
+      "fruits_sliced": 1,
+      "bombs_hit": 0,
+      "duration": 0.1,
+      "difficulty": "Hard",
+      "is_high_score": false
+    },
+    {
+      "id": 18,
+      "timestamp": "2026-10-16 11:48:09",
+      "score": 10,
+      "fruits_sliced": 1,
+      "bombs_hit": 0,
+      "duration": 0.1,
+      "difficulty": "Hard",
+      "is_high_score": false
+    }
+  ],
+  "practice_history": {
+    "total_practice_sessions": 0,
+    "gestures_tested": {
+      "Index Finger Pointing": 369,
+      "Closed Fist": 123,
+      "Thumbs Up": 730,
+      "Pinch Gesture": 80,
+      "Two-Finger Gesture": 189,
+      "Unknown": 164,
+      "Open Palm": 1793,
+      "Swipe Right": 7
+    }
+  }
+}
